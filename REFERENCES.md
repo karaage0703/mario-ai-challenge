@@ -12,6 +12,7 @@
 
 ## My site link
 - [深層強化学習でAIマリオのクリアにチャレンジしてみた](https://qiita.com/karaage0703/items/e237887894f0f1382d58)
+- [PyTorch入門書の決定版！「最短コースでわかる PyTorch ＆深層学習プログラミング」](https://karaage.hatenadiary.jp/entry/2021/09/24/073000)
 - [Google Colaboratoryで始める強化学習入門](https://karaage.hatenadiary.jp/entry/rl-tutorial)
 
 ## GitHub
