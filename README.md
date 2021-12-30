@@ -3,6 +3,8 @@ Challenge AI Mario to clear all stages of Super Mario.
 
 [GitHub Pages Site](https://karaage0703.github.io/mario-ai-challenge/)
 
+![ai_mario_1_1](https://user-images.githubusercontent.com/5562157/147713753-5851d402-4c9b-4885-8b9a-30ad38dd2cfe.gif)
+
 ## Rules
 
 - Enjoy building AI Mario.
