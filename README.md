@@ -1,5 +1,25 @@
 # mario-ai-challenge
-AI Mario challenges you to clear all stage of Super Mario game.
+Challenge AI Mario to clear all stages of Super Mario.
+
+[GitHub Pages Site](https://karaage0703.github.io/mario-ai-challenge/)
+
+## Rules
+
+- Enjoy building AI Mario.
+- Share information.
+- Use Google Colaboratory Notebook.
+- Use machine learning(End-to-end is preferred).
+- Don't use human instructional information.
+- All rules are flexible and can change.
+
+## Help me
+Everyone is welcome to join. Please Pull Request or share information with issue.
+
+Please copy google colaboratory notebook and challenge game.
+
+If you can clear new stage, please share.
+
+## Current Status
 
 
 | stage | status | Notebook | trained_model |
@@ -39,3 +59,8 @@ AI Mario challenges you to clear all stage of Super Mario game.
 
 
 
+## License
+This Project Page  is released under the MIT License, see LICENSE.
+
+This does not include the license for Google Colaboratory Notebook, which is linked here.
+Please check with the respective links.
