@@ -24,7 +24,7 @@ If you can clear new stage, please share.
 | stage | status | issue | Notebook | trained_model |
 |:-:|:-:|:-:|:-:|:-:|
 | 1-1  | clear | [#1](https://github.com/karaage0703/mario-ai-challenge/issues/1) | [link](https://colab.research.google.com/drive/1yhatOp6jy1vnf78i81QADUAp7HK4ruoz?usp=sharing)  | [link](https://drive.google.com/file/d/10lbU8FeiBE2J7BbwMik1ewy_s3jIZdt0/view?usp=sharing)|
-| 1-2 | challenging  |   | |
+| 1-2 | challenging | [#2](https://github.com/karaage0703/mario-ai-challenge/issues/2)  | |
 | 1-3 | not yet  |   ||
 | 1-4 | not yet  |   ||
 | 2-1 | not yet  |   ||
@@ -56,7 +56,7 @@ If you can clear new stage, please share.
 | 8-3 | not yet  |   ||
 | 8-4 | not yet  |   ||
 
-
+Status: clear / challenging / not yet
 
 ## License
 This Project Page  is released under the MIT License, see LICENSE.
