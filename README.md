@@ -15,7 +15,7 @@ Challenge AI Mario to clear all stages of Super Mario.
 - All rules are flexible and can change.
 
 ## Help me
-Everyone is welcome to join. Please Pull Request or share information with issue.
+Everyone is welcome to join. Please create issue and share information.
 
 Please copy google colaboratory notebook and challenge game.
 
