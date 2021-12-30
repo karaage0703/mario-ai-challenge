@@ -13,6 +13,7 @@
 - [強化学習の基礎と深層強化学習](https://www.slideshare.net/ShotaImai3/rlssdeepreinforcementlearning)
 - [ゼロから始めてオフライン強化学習とConservative Q-Learningを理解する](https://qiita.com/aiueola/items/90f635200d808f904daf)
 - [強化学習コンペ「Hungry Geese」を振り返る](https://zenn.dev/ktechb/articles/e2394bc27358c4)
+- [シミュレーションコンペで強化学習を始める時のTips](https://kutohonn.hatenablog.com/entry/2021/12/16/230644)
 
 ## My site link
 - [深層強化学習でAIマリオのクリアにチャレンジしてみた](https://qiita.com/karaage0703/items/e237887894f0f1382d58)
