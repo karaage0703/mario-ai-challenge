@@ -65,6 +65,10 @@ If you can clear new stage, please share.
 
 Status: clear / challenging / not yet
 
+## References
+
+Please see [REFERENCES](REFERENCES.md).
+
 ## License
 This Project Page  is released under the MIT License, see LICENSE.
 
