@@ -14,6 +14,11 @@ Challenge AI Mario to clear all stages of Super Mario.
 - Don't use human instructional information.
 - All rules are flexible and can change.
 
+## Attention
+Japanese is used a lot in Google Colaboratory Notebooks (because I'm Japanese).
+
+Participation from all over the world is welcome, please use DeepL.
+
 ## Help me
 Everyone is welcome to join. Please create issue and share information.
 
