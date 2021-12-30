@@ -3,15 +3,17 @@
 ## Books
 - OpenAI Gym／Baselines 深層学習・強化学習 人工知能プログラミング 実践入門
 - 強化学習を学びたい人が最初に読む本
-
+- 最短コースでわかる PyTorch ＆深層学習プログラミング
 
 ## Web link
 - [Stable Baselinesを使ってスーパーマリオブラザーズ1-1をクリアするまで](https://qiita.com/hrs1985/items/871ca5d037d73558bfca)
 - [Stable-Baselines3 Docs](https://stable-baselines3.readthedocs.io/en/master/)
-
+- [OpenAI Gymの様々な学習環境](https://note.com/npaka/n/n9d81c0f08e26)
+- [強化学習の基礎と深層強化学習](https://www.slideshare.net/ShotaImai3/rlssdeepreinforcementlearning)
 
 ## My site link
 - [深層強化学習でAIマリオのクリアにチャレンジしてみた](https://qiita.com/karaage0703/items/e237887894f0f1382d58)
+- [Pythonで基礎から機械学習まとめ](https://karaage.hatenadiary.jp/machine-learning-study)
 - [PyTorch入門書の決定版！「最短コースでわかる PyTorch ＆深層学習プログラミング」](https://karaage.hatenadiary.jp/entry/2021/09/24/073000)
 - [Google Colaboratoryで始める強化学習入門](https://karaage.hatenadiary.jp/entry/rl-tutorial)
 
