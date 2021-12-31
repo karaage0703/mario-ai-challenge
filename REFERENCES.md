@@ -5,6 +5,7 @@
 - 強化学習を学びたい人が最初に読む本
 - 最短コースでわかる PyTorch ＆深層学習プログラミング
 - [Reinforcement Learning(pdf)](http://www.incompleteideas.net/book/RLbook2020.pdf)
+- つくりながら学ぶ！深層強化学習
 
 ## Web link
 - [Stable Baselinesを使ってスーパーマリオブラザーズ1-1をクリアするまで](https://qiita.com/hrs1985/items/871ca5d037d73558bfca)
@@ -26,6 +27,7 @@
 ## GitHub
 - https://github.com/nicknochnack/MarioRL
 - https://github.com/YuansongFeng/MadMario
+- https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book
 
 
 ## Movie
