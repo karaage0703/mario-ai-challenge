@@ -5,6 +5,8 @@ Challenge AI Mario to clear all stages of Super Mario.
 
 ![ai_mario_1_1](https://user-images.githubusercontent.com/5562157/147713753-5851d402-4c9b-4885-8b9a-30ad38dd2cfe.gif)
 
+This challenge is being conducted in accordance with [Nintendo's guideline](https://www.nintendo.co.jp/networkservice_guideline/en/index.html).
+
 ## Rules
 
 - Enjoy creating AI Mario.
