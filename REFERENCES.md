@@ -16,6 +16,7 @@
 - [強化学習コンペ「Hungry Geese」を振り返る](https://zenn.dev/ktechb/articles/e2394bc27358c4)
 - [シミュレーションコンペで強化学習を始める時のTips](https://kutohonn.hatenablog.com/entry/2021/12/16/230644)
 - [Stable BaselinesのPPO2で自分で定義したネットワークを使いたい](https://qiita.com/hrs1985/items/90a6361acfadb4efb6fa)
+- [OpenAI Gymを使ったAIスーパーマリオの強化学習](https://windvoice.hatenablog.jp/entry/2022/01/02/183010)
 
 ## GitHub Link
 - https://github.com/nicknochnack/MarioRL
