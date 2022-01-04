@@ -23,6 +23,7 @@
 - https://github.com/YuansongFeng/MadMario
 - https://github.com/YutaroOgawa/Deep-Reinforcement-Learning-Book
 - https://github.com/WindVoiceVox/AI_Mario
+- https://github.com/uvipen/Super-mario-bros-PPO-pytorch
 
 ## My site link
 - [深層強化学習でAIマリオのクリアにチャレンジしてみた](https://qiita.com/karaage0703/items/e237887894f0f1382d58)
