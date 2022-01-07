@@ -36,7 +36,7 @@ If you can clear new stage, please share.
 | 1-2 | clear | [#2](https://github.com/karaage0703/mario-ai-challenge/issues/2)  | [link](https://colab.research.google.com/drive/1JXSAWaAI1OXo4wsOSYne3jjqwIqh1tYB?usp=sharing) | [link](https://drive.google.com/file/d/1IMrpPHoUtt3iHZQvW5L7nl4g74Us6dkm/view?usp=sharing) | 
 | 1-3 | not yet  |   ||
 | 1-4 | not yet  |   ||
-| 2-1 | not yet  |   ||
+| 2-1 | not yet  |[#5](https://github.com/karaage0703/mario-ai-challenge/issues/5)   ||
 | 2-2 | not yet  |   ||
 | 2-3 | not yet  |   ||
 | 2-4 | not yet  |   ||
