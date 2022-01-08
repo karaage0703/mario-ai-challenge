@@ -1,11 +1,12 @@
 # References
 
 ## Books
-- OpenAI Gym／Baselines 深層学習・強化学習 人工知能プログラミング 実践入門
-- 強化学習を学びたい人が最初に読む本
-- 最短コースでわかる PyTorch ＆深層学習プログラミング
+- [OpenAI Gym／Baselines 深層学習・強化学習 人工知能プログラミング 実践入門](https://amzn.to/3f5YWaJ)
+- [「強化学習」を学びたい人が最初に読む本](https://amzn.to/3q6mN0e)
+- [最短コースでわかる PyTorch ＆深層学習プログラミング](https://amzn.to/3zDtH06)
 - [Reinforcement Learning(pdf)](http://www.incompleteideas.net/book/RLbook2020.pdf)
-- つくりながら学ぶ！深層強化学習
+- [つくりながら学ぶ！深層強化学習](https://amzn.to/31BMgoW)
+- [ゼロから作る Deep Learning ❹ ―強化学習編](https://amzn.to/338IS5r)
 
 ## Web link
 - [Stable Baselinesを使ってスーパーマリオブラザーズ1-1をクリアするまで](https://qiita.com/hrs1985/items/871ca5d037d73558bfca)
