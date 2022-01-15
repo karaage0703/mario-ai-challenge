@@ -37,7 +37,7 @@ If you can clear new stage, please share.
 | 1-3 | clear  | [#4](https://github.com/karaage0703/mario-ai-challenge/issues/4)  |[link](https://colab.research.google.com/drive/12bD4A63g4oTSzdF3_gW1xj7w4l2X249Z?usp=sharing) | [link](https://drive.google.com/file/d/1fhUFYLpA4AEJ7sYt9YXWQaLk7Al9RuRY/view?usp=sharing) | 
 | 1-4 | clear  |[#8](https://github.com/karaage0703/mario-ai-challenge/issues/8)   | [link](https://colab.research.google.com/drive/1IBBOnWyan6jg7nVEpFt0kU3z_bXrsIkg?usp=sharing) | [link](https://github.com/karaage0703/mario-ai-challenge/files/7858814/mario_1_4.zip) | 
 | 2-1 | clear  |[#5](https://github.com/karaage0703/mario-ai-challenge/issues/5)   | [link](https://colab.research.google.com/drive/1e-KNSFd5NBpUIqY9Z1HpXm3ehZwh9Q7r) | [link](https://drive.google.com/file/d/1SgstOE0JDPzx0DCmtAcHmCBrbxM_246Q/view?usp=sharing) | 
-| 2-2 | challenging  | [#6](https://github.com/karaage0703/mario-ai-challenge/issues/6)  ||
+| 2-2 | clear  | [#6](https://github.com/karaage0703/mario-ai-challenge/issues/6)  ||
 | 2-3 |  clear  |[#9](https://github.com/karaage0703/mario-ai-challenge/issues/9)   | [link](https://colab.research.google.com/drive/1pUnrmBEvM6IfFqBprWR9GY0A7i49rlB-) | [link](https://drive.google.com/file/d/1wdZchLAKzPy-B0hWnhoRrzyzgNpn-Mtx/view?usp=sharing) | 
 | 2-4 | clear  |[#10](https://github.com/karaage0703/mario-ai-challenge/issues/10)   | [link](https://colab.research.google.com/drive/1Glfkh2_hlLgwHsNb9RSc1ZaqyglmLUpb) | [link](https://drive.google.com/file/d/17ksQPubQZoWJWGGNuBnyJNCXiVRbjBMR/view?usp=sharing) | 
 | 3-1 | challenging  |[#12](https://github.com/karaage0703/mario-ai-challenge/issues/12)   ||
