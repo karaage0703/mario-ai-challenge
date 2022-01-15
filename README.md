@@ -71,6 +71,14 @@ Status: clear / challenging / not yet
 
 Please see [REFERENCES](REFERENCES.md).
 
+## Super Mario Challengers
+Special Thanks!
+
+- [@chottokun](https://github.com/chottokun)
+- [@Kazuhito00](https://github.com/Kazuhito00) 
+- [@y-yas](https://github.com/y-yas) 
+- [@WindVoiceVox](https://github.com/WindVoiceVox)
+
 ## License
 This Project Page  is released under the MIT License, see LICENSE.
 
