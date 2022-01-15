@@ -44,7 +44,7 @@ If you can clear new stage, please share.
 | 3-2 | challenging  | [#15](https://github.com/karaage0703/mario-ai-challenge/issues/15)  ||
 | 3-3 | challenging  |[#13](https://github.com/karaage0703/mario-ai-challenge/issues/13)   ||
 | 3-4 | not yet  |   ||
-| 4-1 | challenging  | [#16](https://github.com/karaage0703/mario-ai-challenge/issues/16)  ||
+| 4-1 | clear  | [#16](https://github.com/karaage0703/mario-ai-challenge/issues/16)  | [link](https://colab.research.google.com/drive/1u48OG43wCp8-LW7WAFCiMWZr1yaV36Qo?usp=sharing)| [link](https://drive.google.com/file/d/160oTk0DKZSpANSGrw6Kq2_gR8JCskQ-t/view?usp=sharing) |
 | 4-2 | not yet  |   ||
 | 4-3 | not yet  |   ||
 | 4-4 | not yet  |   ||
