@@ -19,6 +19,7 @@
 - [Stable BaselinesのPPO2で自分で定義したネットワークを使いたい](https://qiita.com/hrs1985/items/90a6361acfadb4efb6fa)
 - [OpenAI Gymを使ったAIスーパーマリオの強化学習](https://windvoice.hatenablog.jp/entry/2022/01/02/183010)
 - [強化学習のヒントとコツ](https://note.com/npaka/n/na7a409cbadc7)
+- [マリオAIチャレンジ開催中🍄！](https://kazuhito00.hatenablog.com/entry/2022/01/15/122428)
 
 ## GitHub Link
 - https://github.com/nicknochnack/MarioRL
