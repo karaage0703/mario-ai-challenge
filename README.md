@@ -48,8 +48,8 @@ If you can clear new stage, please share.
 | 4-2 | not yet  |   ||
 | 4-3 | not yet  |   ||
 | 4-4 | not yet  |   ||
-| 5-1 | challenging  | [#19](https://github.com/karaage0703/mario-ai-challenge/issues/19)  ||
-| 5-2 | not yet  |   ||
+| 5-1 | clear  | [#19](https://github.com/karaage0703/mario-ai-challenge/issues/19)  | [link](https://colab.research.google.com/drive/12opKDYjJStH8easO0f91Eyx6Kj7ZbQH4)| [link](https://drive.google.com/file/d/1h8oqHr1W5dVTvWbkhSK4TE0a9U7I-OmF/view?usp=sharing) |
+| 5-2 | challenging  | [#21](https://github.com/karaage0703/mario-ai-challenge/issues/21)  ||
 | 5-3 | not yet  |   ||
 | 5-4 | not yet  |   ||
 | 6-1 | not yet  |   ||
