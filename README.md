@@ -57,7 +57,7 @@ If you can clear new stage, please share.
 | 6-3 | clear  | [#31](https://github.com/karaage0703/mario-ai-challenge/issues/31)  | [link](https://github.com/chottokun/mario-ai-challenge/blob/Colaboratory/mario_ai_challenge_6_3_v006_local.ipynb) | [link](https://github.com/karaage0703/mario-ai-challenge/files/7925825/best_model_3600000.zip) |
 | 6-4 | not yet  |   ||
 | 7-1 | clear  | [#32](https://github.com/karaage0703/mario-ai-challenge/issues/32) | [link](https://colab.research.google.com/drive/1EDsQjfNLP8RihV9f1eZiWZpHXwh_BbEK?usp=sharing)| [link](https://github.com/karaage0703/mario-ai-challenge/files/7926553/mario_7_1.zip) |
-| 7-2 | not yet  |   ||
+| 7-2 | challenging  | [#33](https://github.com/karaage0703/mario-ai-challenge/issues/33)  ||
 | 7-3 | not yet  |   ||
 | 7-4 | not yet  |   ||
 | 8-1 | not yet  |   ||
