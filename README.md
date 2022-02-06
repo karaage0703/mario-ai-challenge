@@ -76,6 +76,7 @@ Special Thanks!
 
 - [@chottokun](https://github.com/chottokun)
 - [@Kazuhito00](https://github.com/Kazuhito00) 
+- [@Tiryoh](https://github.com/Tiryoh) 
 - [@y-yas](https://github.com/y-yas) 
 - [@WindVoiceVox](https://github.com/WindVoiceVox)
 
