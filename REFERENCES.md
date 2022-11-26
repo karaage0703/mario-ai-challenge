@@ -31,6 +31,7 @@
 - https://github.com/uvipen/Super-mario-bros-PPO-pytorch
 
 ## My site link
+- [AIマリオで全クリを目指す「マリオAIチャレンジ」をはじめました](https://karaage.hatenadiary.jp/entry/2022/01/17/073000)
 - [深層強化学習でAIマリオのクリアにチャレンジしてみた](https://qiita.com/karaage0703/items/e237887894f0f1382d58)
 - [Google Colaboratoryを便利に使うためのTIPSまとめ](https://karaage.hatenadiary.jp/entry/2018/12/17/073000)
 - [Google Colaboratoryで始める強化学習入門](https://karaage.hatenadiary.jp/entry/rl-tutorial)
@@ -38,4 +39,5 @@
 - [PyTorch入門書の決定版！「最短コースでわかる PyTorch ＆深層学習プログラミング」](https://karaage.hatenadiary.jp/entry/2021/09/24/073000)
 
 ## Movie
+- [AIマリオの作り方を教えます](https://www.youtube.com/watch?v=sXqhlLAOE3E)
 - [Build an Mario AI Model with Python | Gaming Reinforcement Learning](https://www.youtube.com/watch?v=2eeYqJ0uBKE)
