@@ -22,6 +22,7 @@
 - [マリオAIチャレンジ開催中🍄！](https://kazuhito00.hatenablog.com/entry/2022/01/15/122428)
 - [自作AIがスーパーマリオ1-1をやっとのことでクリアした](https://qiita.com/temmaru/items/1bb590709cf623a5f6d1)
 - [Train your first Decision Transformer](https://huggingface.co/blog/train-decision-transformers)
+- [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 
 ## GitHub Link
 - https://github.com/nicknochnack/MarioRL
