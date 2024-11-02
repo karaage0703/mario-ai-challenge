@@ -23,6 +23,7 @@
 - [自作AIがスーパーマリオ1-1をやっとのことでクリアした](https://qiita.com/temmaru/items/1bb590709cf623a5f6d1)
 - [Train your first Decision Transformer](https://huggingface.co/blog/train-decision-transformers)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
+- [強化学習でポケモンをプレイする](https://qiita.com/tsugar/items/b4682e2e95db23c79f69)
 
 ## GitHub Link
 - https://github.com/nicknochnack/MarioRL
