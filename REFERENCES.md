@@ -24,6 +24,7 @@
 - [Train your first Decision Transformer](https://huggingface.co/blog/train-decision-transformers)
 - [Understanding Deep Learning](https://udlbook.github.io/udlbook/)
 - [強化学習でポケモンをプレイする](https://qiita.com/tsugar/items/b4682e2e95db23c79f69)
+- [Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)
 
 ## GitHub Link
 - https://github.com/nicknochnack/MarioRL
